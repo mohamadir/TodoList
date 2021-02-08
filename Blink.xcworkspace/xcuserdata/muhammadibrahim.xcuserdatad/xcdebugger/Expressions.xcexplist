@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in RestClient.sendRequest&lt;A&gt;(_:_:successHandler:failHandler:):RestClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.result">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainVcViewController.scrollViewDidEndDecelerating(_:):MainVcViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mCollectionView.visibleCells">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainVcViewController.scrollViewDidScroll(_:):MainVcViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MainVcViewController.viewDidLoad():MainVcViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.result">
+            </PersistentString>
+            <PersistentString
+               value = "response.data">
+            </PersistentString>
+            <PersistentString
+               value = "response.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TodoUIViewController.updateData():TodoUIViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.todo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainVcViewController.collectionView(_:willDisplay:forItemAt:):MainVcViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in TodoListPresenter.denemeRequest():TodoListPresenter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.baseView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in PersonPresenter.denemeRequest():PersonPresenter.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
